@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/ali/projects/ntc_temperature'
+make: Leaving directory '/home/ali/projects/ntc_temperature'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
