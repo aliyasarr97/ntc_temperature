@@ -1,0 +1,9 @@
+In this project, temperature measurement was made using ntc.
+
+The measured temperature value is converted to degrees Celsius.
+
+When the temperature value is above 27 degrees Celsius, the GPIO PIN 15 led will turn on.
+
+IDE: STM32CubeMX , Keil.
+
+HAL library written by ST company is used.
